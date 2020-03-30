@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#b71c1c</color>
+    <color name="primaryLightColor">#f05545</color>
+    <color name="primaryDarkColor">#7f0000</color>
+
+    <!-- Background color for app -->
+    <color name="background">#ffffff</color>
+
+    <!-- Background color for the country category -->
+    <color name="country_music">#d32f2f</color>
+
+    <!-- Background color for the pop category -->
+    <color name="pop_music">#f44336</color>
+
+    <!-- Background color for the dance category -->
+    <color name="dance_music">#e57373</color>
+
+    <!-- Background color for buttons -->
+    <color name="play_button">#b71c1c</color>
+    <color name="pause_button">#f05545</color>
+    <color name="stop_button">#7f0000</color>
+
+    <!-- Text color for buttons -->
+    <color name="button_text">#ffffff</color>
+</resources>

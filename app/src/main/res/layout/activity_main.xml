@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical"
+    tools:context="com.example.android.musicalstructureappudacity.MainActivity">
+
+    <TextView
+        android:id="@+id/country"
+        style="@style/CategoryStyle"
+        android:background="@color/country_music"
+        android:text="@string/country_music" />
+
+    <TextView
+        android:id="@+id/pop"
+        style="@style/CategoryStyle"
+        android:background="@color/pop_music"
+        android:text="@string/pop_music" />
+
+    <TextView
+        android:id="@+id/dance"
+        style="@style/CategoryStyle"
+        android:background="@color/dance_music"
+        android:text="@string/dance_music" />
+
+</LinearLayout>
